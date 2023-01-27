@@ -1,6 +1,6 @@
 # MediaWiki Metrics
 
-A collection of scripts and utilities for extracting behavioral metrics from
+#A collection of scripts and utilities for extracting behavioral metrics from
 Wikipedia editors
 
     $ mwmetrics -h
